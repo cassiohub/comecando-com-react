@@ -1,6 +1,6 @@
 var React = require("react");
 
-UserRepos = React.createClass({
+var UserRepos = React.createClass({
 	getInitialState: function() {
 		return {
 			reposCount: 0
